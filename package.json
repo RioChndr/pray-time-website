@@ -2,6 +2,10 @@
   "name": "project_jammasjid",
   "version": "1.0.0",
   "private": true,
+  "author": {
+    "name": "Rio Chandra",
+    "email": "riochandra4@gmail.com"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
