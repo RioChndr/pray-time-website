@@ -1,16 +1,16 @@
-# Project Jadwal Waktu Shalat
+# Prayer Time Schedule Project
 
-Jadwal waktu shalat, bisa dipasang di masjid-masjid atau dirumah dengan tampilan yang elegan, tidak membosankan, pilihan tema yang beragam, dan sangat _customable_. Tema bisa diganti, gambar bisa custom sesuai keinginan, tidak ada batasan dari inovasi ini.
+Prayer time schedule, can be installed in mosques or at home with an elegant look, not boring, a variety of theme choices, and very _customable_. Themes can be replaced, images can be custom as desired, there are no limits to this innovation.
 
-> Projek masih belia, sangat menerima masukan dan kontribusinya
+> The project is still young, very accepting of its input and contributions.
 
 ### Screenshot
 
-Tema 1: _Classic_
+Topic 1: _Classic_
 
 ![Screenshot 1](assets/images/screenshot1.png)
 
-> Tema lainnya : _Coming soon_
+> Other themes: _Coming soon_
 
 ### Credit
 
