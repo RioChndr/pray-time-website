@@ -1,6 +1,8 @@
 # Praying Time Schedule Project
 
-Prayer times, can be installed in mosques or at home 
+Prayer times, can be use everywhere.
+
+just use it as PWA.
 
 ### Visual Features
 
