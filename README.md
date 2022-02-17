@@ -1,12 +1,17 @@
 # Praying Time Schedule Project
 
-Prayer times, can be installed in mosques or at home with an elegant appearance, not boring, a variety of theme choices, and very customizable. Themes can be changed, images can be customized as desired, there are no limits to this innovation.
+Prayer times, can be installed in mosques or at home 
 
-> The project is in heavy development. but, useful contributions are welcome
+### Visual Features
+
+- elegant default appearance
+- Fully Costumized by editing them
+
+*The project is in heavy development. but, useful contributions are welcome*
 
 ### Screenshot
 
-Tema 1: _Classic_
+**Theme 1 : Classic**
 
 ![Screenshot 1](assets/images/screenshot1.png)
 
